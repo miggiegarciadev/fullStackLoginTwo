@@ -1,0 +1,17 @@
+body {
+  padding-top: 90px;
+  word-wrap:break-word;
+  overflow: auto;
+  background: url(img/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: bold;
+}
+
+img {
+  height: 300px;
+}
+
+.jumbotron {
+  background-color: rgb(153, 204, 0, .65);
+}
